@@ -5,6 +5,10 @@ function App() {
   return (
     <div className="App">
       <NameBadge displayedName="Kira Nerise" />
+      <NameBadge displayedName="Carol Park" />
+      <NameBadge displayedName="Katie Pierce" />
+      <NameBadge displayedName="Garrett Guier" />
+      <NameBadge displayedName="Daphne Guier-Park" />
     </div>
   );
 }
